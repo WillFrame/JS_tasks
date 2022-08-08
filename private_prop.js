@@ -19,3 +19,5 @@ object._value = 73; // изменили напрямую приватное св
   */
 
 console.log(object.getValue());
+
+// Пока не готово
